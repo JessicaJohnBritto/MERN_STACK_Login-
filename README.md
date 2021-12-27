@@ -1,3 +1,7 @@
+# MERN STACK PRACTISE PROJECT
+
+In this practise project in MERN STACK, I have attempted to do simple LOGIN SYSTEM by following youtube tutorial by CODEDAMN and referred to stackoverflow and github repo on REACT FRAMEWORK and other documentation sites related to MERN STACK.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
